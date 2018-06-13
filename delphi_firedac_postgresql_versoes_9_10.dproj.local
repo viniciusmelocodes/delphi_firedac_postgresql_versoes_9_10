@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/10/31 23:33:02.000.281,=C:\Users\tporto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/01 23:22:48.000.919,=C:\Users\tporto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/21 23:22:35.000.425,=C:\Users\tporto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/21 23:23:40.000.307,C:\Users\tporto\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\tporto\Desktop\FireDacPostgre\uPrincipal.dfm</Transaction>
+    <Transaction>2016/05/21 23:23:40.000.307,C:\Users\tporto\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\tporto\Desktop\FireDacPostgre\uPrincipal.pas</Transaction>
+    <Transaction>2016/05/21 23:23:45.000.756,C:\Users\tporto\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\tporto\Desktop\FireDacPostgre\FireDacPostgre.dproj</Transaction>
+    <Transaction>2018/06/13 01:52:17.000.192,C:\Users\Vinícius\Downloads\delphi-firedac-postgresql-master\delphi-firedac-postgresql-versoes-9-10\FireDacPostgre.dproj=C:\Users\Vinícius\Downloads\delphi-firedac-postgresql-master\delphi-firedac-postgresql-versoes-9-10\delphi_firedac_postgresql_versoes_9_10.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
